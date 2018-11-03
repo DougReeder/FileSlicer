@@ -1,0 +1,28 @@
+{
+  "name": "fileslicer",
+  "version": "0.2.0",
+  "description": "Demonstrates incremental calculation of a checksum for a file",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DougReeder/FileSlicer.git"
+  },
+  "keywords": [
+    "file",
+    "incremental",
+    "upload",
+    "checksum",
+    "md5"
+  ],
+  "author": "Doug Reeder <reeder.29@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DougReeder/FileSlicer/issues"
+  },
+  "homepage": "https://github.com/DougReeder/FileSlicer#readme",
+  "dependencies": {
+    "spark-md5": "^3.0.0"
+  }
+}
